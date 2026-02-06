@@ -1,51 +1,27 @@
 ```bash
-bash <(curl -s https://ptero.jishnu.site)
-```
-Wing Tunnel Port
-
-```bash
-ipv4:8080
-```
-
-
-Wing Daemon Port
-
-```bash
-443
-```
-
-
-```bash
-systemctl start wings
-```
-
-
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/blueprint/main/blueprint-installer.sh)
-```
-
-
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/blueprint/main/addon-installer.sh)
-```
-
-
-```bash
-mv fileName /var/www/pterodactyl
+https://github.com/jishnudiscord14-droid/vps123
 ```
 
 ```bash
-blueprint -remove name
+  bash <(curl -s https://codes.jishnu.site) 
 ```
 
 
+## Installation
 
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/custom/main/custom)
-```
+1. Clone the repository:
 
+    ```sh
+    git clone https://github.com/foxytouxxx/freeroot.git
+    cd freeroot
+    ```
 
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hgnodes/Docker/main/install)
-```
+2. Run the installer script:
 
+    ```sh
+    ./root.sh
+    ```
+    or
+    ```sh
+    bash root.sh
+    ```
